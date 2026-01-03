@@ -1,0 +1,13 @@
+{
+    "name": "flashcards/fsrs-flashcards-tutor",
+    "description": "FSRS integration for Tutor LMS",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos GuilhermeBX"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
